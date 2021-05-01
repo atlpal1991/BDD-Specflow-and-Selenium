@@ -384,3 +384,78 @@ New Test Cycle :
 ******************************************
 2021-05-01 12:56:55.975 +05:30 [INF] 
 End of Test Cycle :
+2021-05-01 14:00:11.144 +05:30 [INF] ******************************************
+2021-05-01 14:00:11.196 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 14:00:11.210 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 14:00:14.276 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 14:00:14.314 +05:30 [INF] [Step] : I am at home page
+2021-05-01 14:00:21.539 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 14:00:24.816 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 14:00:25.240 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 14:00:26.064 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 14:00:33.876 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 14:00:36.195 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 14:00:48.534 +05:30 [INF] [Step] : Go to payment page and select payment type and proceed
+2021-05-01 14:00:51.851 +05:30 [ERR] OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='button btn btn-default button-medium']"}
+  (Session info: chrome=90.0.4430.93)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at FasalEcommerceBDD.Step_Definitions.ShoppingWorkflow.WhenGoToPaymentPageAndSelectPaymentTypeAndProceed() in C:\Users\Dell\Documents\GitHub\BDD-Specflow-and-Selenium\FasalEcommerceWebsite\Automation.API.Framework\Step_Definitions\ShoppingWorkflow.cs:line 151
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2021-05-01 14:00:51.851 +05:30 [ERR] WebDriver
+2021-05-01 14:00:51.958 +05:30 [INF] [scenario completed]
+2021-05-01 14:00:51.958 +05:30 [INF] ------------------------------------------------------------
+2021-05-01 14:00:52.002 +05:30 [INF] [Feature completed] 
+2021-05-01 14:00:52.002 +05:30 [INF] ==============================================================
+2021-05-01 14:00:52.294 +05:30 [INF] 
+******************************************
+2021-05-01 14:00:52.294 +05:30 [INF] 
+End of Test Cycle :
+2021-05-01 14:07:31.609 +05:30 [INF] ******************************************
+2021-05-01 14:07:31.651 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 14:07:31.667 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 14:07:33.261 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 14:07:33.281 +05:30 [INF] [Step] : I am at home page
+2021-05-01 14:07:41.863 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 14:07:44.410 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 14:07:44.730 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 14:07:45.504 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 14:07:52.461 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 14:07:54.725 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 14:08:06.605 +05:30 [INF] [Step] : Go to payment page and select payment type and proceed
+2021-05-01 14:08:08.437 +05:30 [INF] [Step] : read the message in the final order confirmation summary page
+2021-05-01 14:08:08.542 +05:30 [INF] [scenario completed]
+2021-05-01 14:08:08.543 +05:30 [INF] ------------------------------------------------------------
+2021-05-01 14:08:08.560 +05:30 [INF] [Feature completed] 
+2021-05-01 14:08:08.560 +05:30 [INF] ==============================================================
+2021-05-01 14:08:08.880 +05:30 [INF] 
+******************************************
+2021-05-01 14:08:08.880 +05:30 [INF] 
+End of Test Cycle :
+2021-05-01 14:09:39.183 +05:30 [INF] ******************************************
+2021-05-01 14:09:39.226 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 14:09:39.238 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 14:09:40.668 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 14:09:40.691 +05:30 [INF] [Step] : I am at home page
+2021-05-01 14:09:47.679 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 14:09:50.586 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 14:09:50.901 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 14:09:51.608 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 14:09:59.930 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 14:10:02.113 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 14:10:11.734 +05:30 [INF] [Step] : Go to payment page and select payment type and proceed
+2021-05-01 14:10:14.443 +05:30 [INF] [Step] : read the message in the final order confirmation summary page
+2021-05-01 14:10:14.454 +05:30 [INF] [scenario completed]
+2021-05-01 14:10:14.454 +05:30 [INF] ------------------------------------------------------------
+2021-05-01 14:10:14.473 +05:30 [INF] [Feature completed] 
+2021-05-01 14:10:14.473 +05:30 [INF] ==============================================================
+2021-05-01 14:10:14.690 +05:30 [INF] 
+******************************************
+2021-05-01 14:10:14.690 +05:30 [INF] 
+End of Test Cycle :

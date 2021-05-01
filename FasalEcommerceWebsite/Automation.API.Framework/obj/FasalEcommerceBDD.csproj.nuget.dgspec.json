@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Documents\\FasalEcommerceWebsite\\Automation.API.Framework\\FasalEcommerceBDD.csproj": {}
+    "C:\\Users\\Dell\\Documents\\GitHub\\BDD-Specflow-and-Selenium\\FasalEcommerceWebsite\\Automation.API.Framework\\FasalEcommerceBDD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Documents\\FasalEcommerceWebsite\\Automation.API.Framework\\FasalEcommerceBDD.csproj": {
+    "C:\\Users\\Dell\\Documents\\GitHub\\BDD-Specflow-and-Selenium\\FasalEcommerceWebsite\\Automation.API.Framework\\FasalEcommerceBDD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Documents\\FasalEcommerceWebsite\\Automation.API.Framework\\FasalEcommerceBDD.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\BDD-Specflow-and-Selenium\\FasalEcommerceWebsite\\Automation.API.Framework\\FasalEcommerceBDD.csproj",
         "projectName": "FasalEcommerceBDD",
-        "projectPath": "C:\\Users\\Dell\\Documents\\FasalEcommerceWebsite\\Automation.API.Framework\\FasalEcommerceBDD.csproj",
+        "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\BDD-Specflow-and-Selenium\\FasalEcommerceWebsite\\Automation.API.Framework\\FasalEcommerceBDD.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Documents\\FasalEcommerceWebsite\\Automation.API.Framework\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\BDD-Specflow-and-Selenium\\FasalEcommerceWebsite\\Automation.API.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

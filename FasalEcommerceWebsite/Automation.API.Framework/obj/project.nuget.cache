@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JQ2byR4JzOAb6XB1QYhhDYPDgP+DxFD03H5vq3ak86AsvZisoBD1JS73ddMUCHbexOsTlw+TAJpacRiU3Mpkkg==",
+  "dgSpecHash": "s/6n9Xi92z2MVSnzcgLP9I+e8pyV5PjorOxoYJWJ63AcGufjz1+xIGST4U0UUSQ5e+wYpi24Sc4e0b5/OSBKgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Documents\\FasalEcommerceWebsite\\Automation.API.Framework\\FasalEcommerceBDD.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\GitHub\\BDD-Specflow-and-Selenium\\FasalEcommerceWebsite\\Automation.API.Framework\\FasalEcommerceBDD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\automation.framework\\1.0.3\\automation.framework.1.0.3.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
