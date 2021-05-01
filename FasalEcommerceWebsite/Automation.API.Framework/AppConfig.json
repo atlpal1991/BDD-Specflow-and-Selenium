@@ -1,0 +1,15 @@
+{
+  "Environment": "SysTest",
+
+  //Dev
+  //SysTest
+  //UAT
+  //Staging
+
+  "baseURLDev": "",
+  "baseURLSysTest": "https://reqres.in/",
+  "baseURLUAT": "",
+  "baseURLPreStaging": "",
+
+  "testExecution": "chrome"
+}

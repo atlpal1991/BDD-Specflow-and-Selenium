@@ -1,0 +1,472 @@
+2021-04-25 01:26:11.353 +05:30 [INF] ******************************************
+2021-04-25 01:26:12.317 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 01:26:22.881 +05:30 [INF] [Feature] : Sample
+2021-04-25 01:26:32.557 +05:30 [INF] [Scenario Start] : Add two numbers
+2021-04-25 01:26:33.982 +05:30 [INF] [Step] : I have entered 50 into the calculator
+2021-04-25 01:26:35.226 +05:30 [INF] [Step] : I have entered 70 into the calculator
+2021-04-25 01:26:36.086 +05:30 [INF] [Step] : I press add
+2021-04-25 01:26:37.227 +05:30 [INF] [Step] : the result should be 120 on the screen
+2021-04-25 01:26:37.285 +05:30 [INF] [scenario completed]
+2021-04-25 01:26:37.286 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 01:26:37.341 +05:30 [INF] [Feature completed] 
+2021-04-25 01:26:37.341 +05:30 [INF] ==============================================================
+2021-04-25 01:26:42.642 +05:30 [INF] 
+******************************************
+2021-04-25 01:26:42.643 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 01:45:17.208 +05:30 [INF] ******************************************
+2021-04-25 01:45:17.606 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 01:45:20.779 +05:30 [INF] [Feature] : Sample
+2021-04-25 01:45:23.743 +05:30 [INF] [Scenario Start] : Add two numbers
+2021-04-25 01:45:24.631 +05:30 [INF] [Step] : I have entered 50 into the calculator
+2021-04-25 01:45:26.086 +05:30 [INF] [Step] : I have entered 70 into the calculator
+2021-04-25 01:45:29.810 +05:30 [INF] [Step] : I press add
+2021-04-25 01:45:30.741 +05:30 [INF] [Step] : the result should be 120 on the screen
+2021-04-25 01:45:30.786 +05:30 [INF] [scenario completed]
+2021-04-25 01:45:30.787 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 01:45:30.840 +05:30 [INF] [Feature completed] 
+2021-04-25 01:45:30.840 +05:30 [INF] ==============================================================
+2021-04-25 01:45:34.027 +05:30 [INF] 
+******************************************
+2021-04-25 01:45:34.027 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 01:47:13.539 +05:30 [INF] ******************************************
+2021-04-25 01:47:13.584 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 01:47:13.598 +05:30 [INF] [Feature] : Sample
+2021-04-25 01:47:29.210 +05:30 [INF] [Scenario Start] : Add two numbers
+2021-04-25 01:47:35.433 +05:30 [INF] [Step] : I have entered 50 into the calculator
+2021-04-25 01:49:46.394 +05:30 [INF] ******************************************
+2021-04-25 01:49:46.885 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 01:49:49.276 +05:30 [INF] [Feature] : Sample
+2021-04-25 01:49:51.146 +05:30 [INF] [Scenario Start] : Add two numbers
+2021-04-25 01:49:52.011 +05:30 [INF] [Step] : I have entered 50 into the calculator
+2021-04-25 01:50:08.824 +05:30 [INF] [Step] : I have entered 70 into the calculator
+2021-04-25 01:52:29.684 +05:30 [INF] ******************************************
+2021-04-25 01:52:32.105 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 01:52:36.937 +05:30 [INF] [Feature] : Sample
+2021-04-25 01:52:42.487 +05:30 [INF] [Scenario Start] : Add two numbers
+2021-04-25 01:52:48.704 +05:30 [INF] [Step] : I have entered 50 into the calculator
+2021-04-25 02:02:59.942 +05:30 [INF] ******************************************
+2021-04-25 02:02:59.983 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 02:02:59.993 +05:30 [INF] [Feature] : Sample
+2021-04-25 02:03:00.046 +05:30 [INF] [Scenario Start] : Add two numbers
+2021-04-25 02:03:00.072 +05:30 [INF] [Step] : I have entered 50 into the calculator
+2021-04-25 02:03:01.159 +05:30 [INF] [Step] : I have entered 70 into the calculator
+2021-04-25 02:03:01.327 +05:30 [INF] [Step] : I press add
+2021-04-25 02:03:01.332 +05:30 [INF] [Step] : the result should be 120 on the screen
+2021-04-25 02:03:01.346 +05:30 [INF] [scenario completed]
+2021-04-25 02:03:01.346 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 02:03:01.367 +05:30 [INF] [Feature completed] 
+2021-04-25 02:03:01.367 +05:30 [INF] ==============================================================
+2021-04-25 02:03:01.378 +05:30 [INF] 
+******************************************
+2021-04-25 02:03:01.378 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 04:35:09.013 +05:30 [INF] ******************************************
+2021-04-25 04:35:09.042 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 04:35:09.049 +05:30 [INF] [Feature] : Sample
+2021-04-25 04:35:17.817 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 04:35:21.571 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 04:37:45.198 +05:30 [INF] ******************************************
+2021-04-25 04:37:45.237 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 04:37:45.246 +05:30 [INF] [Feature] : Sample
+2021-04-25 04:37:50.748 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 04:37:54.241 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 04:38:27.326 +05:30 [INF] [Step] : made a post call to register user
+2021-04-25 04:39:11.844 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for registered user
+2021-04-25 04:41:13.818 +05:30 [ERR] Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: R. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json)
+   at Automation.API.Framework.Steps.SampleSteps.ThenIShouldRecieveValidStatuscodeAndResponsefileForRegisteredUser(Table table) in C:\Users\Dell\Downloads\Automation.API.Framework-master\Automation.API.Framework\Steps\SampleSteps.cs:line 27
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2021-04-25 04:41:13.818 +05:30 [ERR] Newtonsoft.Json
+2021-04-25 04:41:25.713 +05:30 [INF] [scenario completed]
+2021-04-25 04:41:25.912 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 04:41:27.717 +05:30 [INF] [Feature completed] 
+2021-04-25 04:41:28.359 +05:30 [INF] ==============================================================
+2021-04-25 04:41:32.616 +05:30 [INF] 
+******************************************
+2021-04-25 04:41:33.521 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 05:03:21.715 +05:30 [INF] ******************************************
+2021-04-25 05:03:21.752 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 05:03:21.762 +05:30 [INF] [Feature] : Sample
+2021-04-25 05:03:23.305 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 05:03:31.671 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 05:03:50.482 +05:30 [INF] [Step] : made a post call to register user
+2021-04-25 05:04:34.186 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for registered user
+2021-04-25 05:14:48.387 +05:30 [INF] ******************************************
+2021-04-25 05:14:48.414 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 05:14:48.422 +05:30 [INF] [Feature] : Sample
+2021-04-25 05:14:58.621 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 05:15:00.055 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 05:15:05.857 +05:30 [INF] [Step] : made a post call to register user
+2021-04-25 05:15:12.204 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for registered user
+2021-04-25 05:15:22.715 +05:30 [ERR] Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: R. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonReader.ReadAndMoveToContent()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value)
+   at Automation.API.Framework.Steps.SampleSteps.ThenIShouldRecieveValidStatuscodeAndResponsefileForRegisteredUser(Table table) in C:\Users\Dell\Downloads\Automation.API.Framework-master\Automation.API.Framework\Steps\SampleSteps.cs:line 29
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2021-04-25 05:15:24.426 +05:30 [ERR] Newtonsoft.Json
+2021-04-25 05:15:56.280 +05:30 [INF] [scenario completed]
+2021-04-25 05:15:56.280 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 05:15:56.300 +05:30 [INF] [Feature completed] 
+2021-04-25 05:15:56.300 +05:30 [INF] ==============================================================
+2021-04-25 05:15:56.311 +05:30 [INF] 
+******************************************
+2021-04-25 05:15:56.311 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 05:44:48.051 +05:30 [INF] ******************************************
+2021-04-25 05:44:48.100 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 05:44:48.119 +05:30 [INF] [Feature] : Sample
+2021-04-25 05:44:51.218 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 05:44:52.158 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 05:44:54.414 +05:30 [INF] [Step] : made a post call to register user
+2021-04-25 05:45:01.621 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for registered user
+2021-04-25 05:48:12.052 +05:30 [INF] ******************************************
+2021-04-25 05:48:12.092 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 05:48:12.108 +05:30 [INF] [Feature] : Sample
+2021-04-25 05:48:14.295 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 05:48:14.990 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 05:48:17.368 +05:30 [INF] [Step] : made a post call to register user
+2021-04-25 05:48:21.811 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for registered user
+2021-04-25 05:48:31.294 +05:30 [INF] [scenario completed]
+2021-04-25 05:48:31.294 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 05:48:31.313 +05:30 [INF] [Feature completed] 
+2021-04-25 05:48:31.313 +05:30 [INF] ==============================================================
+2021-04-25 05:48:31.329 +05:30 [INF] 
+******************************************
+2021-04-25 05:48:31.329 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 05:52:56.273 +05:30 [INF] ******************************************
+2021-04-25 05:52:56.311 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 05:52:56.322 +05:30 [INF] [Feature] : Sample
+2021-04-25 05:52:56.355 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 05:52:56.380 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 05:52:56.386 +05:30 [INF] [Step] : made a post call to register user
+2021-04-25 05:52:56.684 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for registered user
+2021-04-25 05:52:56.779 +05:30 [ERR] NUnit.Framework.AssertionException:   The ststucode is not matching
+  Expected: True
+  But was:  False
+
+   at NUnit.Framework.Assert.ReportFailure(String message)
+   at NUnit.Framework.Assert.ReportFailure(ConstraintResult result, String message, Object[] args)
+   at NUnit.Framework.Assert.That[TActual](TActual actual, IResolveConstraint expression, String message, Object[] args)
+   at NUnit.Framework.Assert.That(Boolean condition, String message, Object[] args)
+   at Automation.API.Framework.Steps.SampleSteps.ThenIShouldRecieveValidStatuscodeAndResponsefileForRegisteredUser(Table table) in C:\Users\Dell\Downloads\Automation.API.Framework-master\Automation.API.Framework\Steps\SampleSteps.cs:line 39
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2021-04-25 05:52:56.779 +05:30 [ERR] nunit.framework
+2021-04-25 05:52:56.817 +05:30 [INF] [scenario completed]
+2021-04-25 05:52:56.817 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 05:52:56.840 +05:30 [INF] [Feature completed] 
+2021-04-25 05:52:56.840 +05:30 [INF] ==============================================================
+2021-04-25 05:52:56.851 +05:30 [INF] 
+******************************************
+2021-04-25 05:52:56.851 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 11:37:48.893 +05:30 [INF] ******************************************
+2021-04-25 11:37:48.938 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 11:37:48.953 +05:30 [INF] [Feature] : Sample
+2021-04-25 11:37:48.986 +05:30 [INF] [Scenario Start] : Create a User
+2021-04-25 11:37:49.009 +05:30 [INF] [Step] : I have entered name, job for new user
+2021-04-25 11:46:43.137 +05:30 [INF] ******************************************
+2021-04-25 11:46:43.168 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 11:46:43.177 +05:30 [INF] [Feature] : Sample
+2021-04-25 11:46:54.426 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 11:47:01.551 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 11:48:27.356 +05:30 [INF] ******************************************
+2021-04-25 11:48:27.406 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 11:48:27.421 +05:30 [INF] [Feature] : Sample
+2021-04-25 11:48:27.471 +05:30 [INF] [Scenario Start] : Create a User
+2021-04-25 11:48:27.497 +05:30 [INF] [Step] : I have entered name, job for new user
+2021-04-25 11:48:34.406 +05:30 [INF] [Step] : made a post call to create user
+2021-04-25 11:49:01.723 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for new user
+2021-04-25 11:53:30.065 +05:30 [INF] ******************************************
+2021-04-25 11:53:30.102 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 11:53:30.112 +05:30 [INF] [Feature] : Sample
+2021-04-25 11:53:30.149 +05:30 [INF] [Scenario Start] : Create a User
+2021-04-25 11:53:30.188 +05:30 [INF] [Step] : I have entered name, job for new user
+2021-04-25 11:53:34.062 +05:30 [INF] [Step] : made a post call to create user
+2021-04-25 11:53:35.422 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for new user
+2021-04-25 11:56:17.317 +05:30 [INF] ******************************************
+2021-04-25 11:56:17.348 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 11:56:17.356 +05:30 [INF] [Feature] : Sample
+2021-04-25 11:56:17.387 +05:30 [INF] [Scenario Start] : Create a User
+2021-04-25 11:56:17.412 +05:30 [INF] [Step] : I have entered name, job for new user
+2021-04-25 11:56:19.066 +05:30 [INF] [Step] : made a post call to create user
+2021-04-25 11:56:25.570 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for new user
+2021-04-25 12:10:40.081 +05:30 [INF] ******************************************
+2021-04-25 12:10:40.120 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 12:10:40.129 +05:30 [INF] [Feature] : Sample
+2021-04-25 12:10:43.117 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 12:10:44.347 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 12:10:45.197 +05:30 [INF] [Step] : made a post call to register user
+2021-04-25 12:10:49.113 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for registered user
+2021-04-25 12:27:30.852 +05:30 [INF] ******************************************
+2021-04-25 12:27:30.911 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 12:27:30.932 +05:30 [INF] [Feature] : Sample
+2021-04-25 12:27:30.989 +05:30 [INF] [Scenario Start] : Create a User
+2021-04-25 12:27:31.033 +05:30 [INF] [Step] : I have entered name, job for new user
+2021-04-25 12:27:37.103 +05:30 [INF] [Step] : made a post call to create user
+2021-04-25 12:27:42.949 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for new user
+2021-04-25 12:31:02.377 +05:30 [INF] ******************************************
+2021-04-25 12:31:02.423 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 12:31:02.447 +05:30 [INF] [Feature] : Sample
+2021-04-25 12:31:06.446 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 12:31:07.443 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 12:31:08.509 +05:30 [INF] [Step] : made a post call to register user
+2021-04-25 12:31:13.668 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for registered user
+2021-04-25 12:34:01.471 +05:30 [INF] ******************************************
+2021-04-25 12:34:01.519 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 12:34:01.536 +05:30 [INF] [Feature] : Sample
+2021-04-25 12:34:03.250 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 12:34:04.572 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 12:34:08.557 +05:30 [INF] [Step] : made a post call to register user
+2021-04-25 12:38:29.314 +05:30 [INF] ******************************************
+2021-04-25 12:38:29.363 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 12:38:29.378 +05:30 [INF] [Feature] : Sample
+2021-04-25 12:38:30.954 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 12:38:35.845 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 12:38:39.620 +05:30 [INF] [Step] : made a post call to register user
+2021-04-25 12:47:06.533 +05:30 [INF] ******************************************
+2021-04-25 12:47:06.589 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 12:47:06.605 +05:30 [INF] [Feature] : Sample
+2021-04-25 12:47:06.658 +05:30 [INF] [Scenario Start] : Create a User
+2021-04-25 12:47:06.689 +05:30 [INF] [Step] : I have entered name, job for new user
+2021-04-25 12:47:12.109 +05:30 [INF] [Step] : made a post call to create user
+2021-04-25 12:48:16.878 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for new user
+2021-04-25 12:58:10.666 +05:30 [INF] ******************************************
+2021-04-25 12:58:10.701 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 12:58:10.709 +05:30 [INF] [Feature] : Sample
+2021-04-25 12:58:10.743 +05:30 [INF] [Scenario Start] : Create a User
+2021-04-25 12:58:10.763 +05:30 [INF] [Step] : I have entered name, job for new user
+2021-04-25 12:58:16.846 +05:30 [INF] [Step] : made a post call to create user
+2021-04-25 12:58:39.540 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for new user
+2021-04-25 12:59:13.172 +05:30 [INF] [scenario completed]
+2021-04-25 12:59:13.173 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 12:59:13.203 +05:30 [INF] [Feature completed] 
+2021-04-25 12:59:13.203 +05:30 [INF] ==============================================================
+2021-04-25 12:59:16.382 +05:30 [INF] 
+******************************************
+2021-04-25 12:59:16.382 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 13:01:15.858 +05:30 [INF] ******************************************
+2021-04-25 13:01:15.885 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 13:01:15.892 +05:30 [INF] [Feature] : Sample
+2021-04-25 13:01:15.919 +05:30 [INF] [Scenario Start] : Create a User
+2021-04-25 13:01:15.938 +05:30 [INF] [Step] : I have entered name, job for new user
+2021-04-25 13:01:15.960 +05:30 [INF] [Step] : made a post call to create user
+2021-04-25 13:01:16.588 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for new user
+2021-04-25 13:01:16.610 +05:30 [INF] [scenario completed]
+2021-04-25 13:01:16.610 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 13:01:16.626 +05:30 [INF] [Scenario Start] : Register a User Successfully
+2021-04-25 13:01:16.626 +05:30 [INF] [Step] : I have entered email, password to register
+2021-04-25 13:01:16.627 +05:30 [INF] [Step] : made a post call to register user
+2021-04-25 13:01:17.163 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for registered user
+2021-04-25 13:01:17.228 +05:30 [ERR] NUnit.Framework.AssertionException:   Response body is not matching
+  Expected: True
+  But was:  False
+
+   at NUnit.Framework.Assert.ReportFailure(String message)
+   at NUnit.Framework.Assert.ReportFailure(ConstraintResult result, String message, Object[] args)
+   at NUnit.Framework.Assert.That[TActual](TActual actual, IResolveConstraint expression, String message, Object[] args)
+   at NUnit.Framework.Assert.That(Boolean condition, String message, Object[] args)
+   at Automation.API.Framework.Steps.SampleSteps.ThenIShouldRecieveValidStatuscodeAndResponsefileForRegisteredUser(Table table) in C:\Users\Dell\Downloads\Automation.API.Framework-master\Automation.API.Framework\Steps\SampleSteps.cs:line 39
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2021-04-25 13:01:17.228 +05:30 [ERR] nunit.framework
+2021-04-25 13:01:17.252 +05:30 [INF] [scenario completed]
+2021-04-25 13:01:17.252 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 13:01:17.256 +05:30 [INF] [Feature completed] 
+2021-04-25 13:01:17.256 +05:30 [INF] ==============================================================
+2021-04-25 13:01:17.264 +05:30 [INF] 
+******************************************
+2021-04-25 13:01:17.264 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 13:28:12.482 +05:30 [INF] ******************************************
+2021-04-25 13:28:12.507 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 13:28:12.514 +05:30 [INF] [Feature] : Sample api calls for get single user and get all users
+2021-04-25 13:28:12.539 +05:30 [INF] [Scenario Start] : Get single user
+2021-04-25 13:28:13.882 +05:30 [INF] [Step] : I have made a get call using id
+2021-04-25 13:28:21.640 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for requested user
+2021-04-25 13:30:27.329 +05:30 [INF] ******************************************
+2021-04-25 13:30:27.355 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 13:30:27.363 +05:30 [INF] [Feature] : Sample api calls for get single user and get all users
+2021-04-25 13:30:27.389 +05:30 [INF] [Scenario Start] : Get single user
+2021-04-25 13:30:29.469 +05:30 [INF] [Step] : I have made a get call using id
+2021-04-25 13:30:32.262 +05:30 [INF] [Step] : I should recieve valid statuscode and responsefile for requested user
+2021-04-25 19:43:24.285 +05:30 [INF] ******************************************
+2021-04-25 19:43:24.314 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 19:43:24.322 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-25 19:43:24.351 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-25 19:43:24.604 +05:30 [INF] [scenario completed]
+2021-04-25 19:43:24.604 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 19:43:24.629 +05:30 [INF] [Feature completed] 
+2021-04-25 19:43:24.629 +05:30 [INF] ==============================================================
+2021-04-25 19:43:24.643 +05:30 [INF] 
+******************************************
+2021-04-25 19:43:24.644 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 19:44:31.999 +05:30 [INF] ******************************************
+2021-04-25 19:44:32.027 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 19:44:32.034 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-25 19:44:32.062 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-25 19:44:32.221 +05:30 [INF] [scenario completed]
+2021-04-25 19:44:32.221 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 19:44:32.239 +05:30 [INF] [Feature completed] 
+2021-04-25 19:44:32.239 +05:30 [INF] ==============================================================
+2021-04-25 19:44:32.249 +05:30 [INF] 
+******************************************
+2021-04-25 19:44:32.249 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 19:46:00.741 +05:30 [INF] ******************************************
+2021-04-25 19:46:00.776 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 19:46:00.787 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-25 19:46:00.821 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-25 19:46:00.840 +05:30 [INF] [Step] : I am at home page
+2021-04-25 19:46:00.883 +05:30 [ERR] BoDi.ObjectContainerException: Multiple public constructors with same maximum parameter count are not supported! FasalEcommerceBDD.Step_Definitions.ShoppingWorkflow
+   at BoDi.ObjectContainer.CreateObject(Type type, ResolutionList resolutionPath, RegistrationKey keyToResolve)
+   at BoDi.ObjectContainer.TypeRegistration.Resolve(ObjectContainer container, RegistrationKey keyToResolve, ResolutionList resolutionPath)
+   at BoDi.ObjectContainer.ResolveObject(RegistrationKey keyToResolve, ResolutionList resolutionPath)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, ResolutionList resolutionPath, String name)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, String name)
+   at TechTalk.SpecFlow.Infrastructure.TestObjectResolver.ResolveBindingInstance(Type bindingType, IObjectContainer container)
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2021-04-25 19:46:00.883 +05:30 [ERR] BoDi
+2021-04-25 19:46:00.968 +05:30 [INF] [scenario completed]
+2021-04-25 19:46:00.968 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 19:46:00.990 +05:30 [INF] [Feature completed] 
+2021-04-25 19:46:00.990 +05:30 [INF] ==============================================================
+2021-04-25 19:46:01.002 +05:30 [INF] 
+******************************************
+2021-04-25 19:46:01.002 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 19:46:42.952 +05:30 [INF] ******************************************
+2021-04-25 19:46:42.994 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 19:46:43.003 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-25 19:46:51.627 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-25 19:46:58.735 +05:30 [INF] [Step] : I am at home page
+2021-04-25 19:47:07.239 +05:30 [ERR] BoDi.ObjectContainerException: Multiple public constructors with same maximum parameter count are not supported! FasalEcommerceBDD.Step_Definitions.ShoppingWorkflow
+   at BoDi.ObjectContainer.CreateObject(Type type, ResolutionList resolutionPath, RegistrationKey keyToResolve)
+   at BoDi.ObjectContainer.TypeRegistration.Resolve(ObjectContainer container, RegistrationKey keyToResolve, ResolutionList resolutionPath)
+   at BoDi.ObjectContainer.ResolveObject(RegistrationKey keyToResolve, ResolutionList resolutionPath)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, ResolutionList resolutionPath, String name)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, String name)
+   at TechTalk.SpecFlow.Infrastructure.TestObjectResolver.ResolveBindingInstance(Type bindingType, IObjectContainer container)
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2021-04-25 19:47:08.460 +05:30 [ERR] BoDi
+2021-04-25 19:50:29.760 +05:30 [INF] ******************************************
+2021-04-25 19:50:29.792 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 19:50:29.804 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-25 19:50:38.310 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-25 19:50:44.354 +05:30 [INF] [Step] : I am at home page
+2021-04-25 20:00:51.706 +05:30 [INF] ******************************************
+2021-04-25 20:00:51.733 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 20:00:51.742 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-25 20:00:51.771 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-25 20:00:51.785 +05:30 [INF] [Step] : I am at home page
+2021-04-25 20:00:51.813 +05:30 [ERR] BoDi.ObjectContainerException: Multiple public constructors with same maximum parameter count are not supported! FasalEcommerceBDD.Step_Definitions.ShoppingWorkflow
+   at BoDi.ObjectContainer.CreateObject(Type type, ResolutionList resolutionPath, RegistrationKey keyToResolve)
+   at BoDi.ObjectContainer.TypeRegistration.Resolve(ObjectContainer container, RegistrationKey keyToResolve, ResolutionList resolutionPath)
+   at BoDi.ObjectContainer.ResolveObject(RegistrationKey keyToResolve, ResolutionList resolutionPath)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, ResolutionList resolutionPath, String name)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, String name)
+   at TechTalk.SpecFlow.Infrastructure.TestObjectResolver.ResolveBindingInstance(Type bindingType, IObjectContainer container)
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2021-04-25 20:00:51.813 +05:30 [ERR] BoDi
+2021-04-25 20:00:51.865 +05:30 [INF] [scenario completed]
+2021-04-25 20:00:51.865 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 20:00:51.884 +05:30 [INF] [Feature completed] 
+2021-04-25 20:00:51.884 +05:30 [INF] ==============================================================
+2021-04-25 20:00:51.893 +05:30 [INF] 
+******************************************
+2021-04-25 20:00:51.893 +05:30 [INF] 
+End of Test Cycle :
+2021-04-25 20:55:56.210 +05:30 [INF] ******************************************
+2021-04-25 20:55:56.263 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 20:55:56.443 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-25 20:56:23.832 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-25 20:56:37.056 +05:30 [INF] [Step] : I am at home page
+2021-04-25 21:16:49.173 +05:30 [INF] ******************************************
+2021-04-25 21:16:49.210 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 21:16:49.301 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-25 21:17:03.885 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-25 21:17:10.918 +05:30 [INF] [Step] : I am at home page
+2021-04-25 21:18:55.131 +05:30 [INF] ******************************************
+2021-04-25 21:18:55.171 +05:30 [INF] 
+New Test Cycle :
+2021-04-25 21:18:55.183 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-25 21:18:56.568 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-25 21:18:56.602 +05:30 [INF] [Step] : I am at home page
+2021-04-25 21:19:02.124 +05:30 [INF] [Step] : selected <Women> categeory for shopping
+2021-04-25 21:19:03.984 +05:30 [INF] [Step] : apply three filters filter_1, filter_2, filter_3 and search for results
+2021-04-25 21:19:06.299 +05:30 [INF] [Step] : Add an item of worth <Value> and add to cart
+2021-04-25 21:19:08.126 +05:30 [INF] [Step] : Item should be available in the cart
+2021-04-25 21:19:09.993 +05:30 [INF] [scenario completed]
+2021-04-25 21:19:09.993 +05:30 [INF] ------------------------------------------------------------
+2021-04-25 21:19:10.019 +05:30 [INF] [Feature completed] 
+2021-04-25 21:19:10.019 +05:30 [INF] ==============================================================
+2021-04-25 21:19:10.499 +05:30 [INF] 
+******************************************
+2021-04-25 21:19:10.499 +05:30 [INF] 
+End of Test Cycle :

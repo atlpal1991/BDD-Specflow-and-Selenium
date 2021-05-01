@@ -1,0 +1,192 @@
+2021-04-28 00:10:11.167 +05:30 [INF] ******************************************
+2021-04-28 00:10:11.205 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 00:10:11.224 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 00:10:22.617 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 00:10:25.701 +05:30 [INF] [Step] : I am at home page
+2021-04-28 00:10:33.794 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 00:10:38.725 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 00:10:43.638 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 00:25:01.465 +05:30 [INF] ******************************************
+2021-04-28 00:25:01.497 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 00:25:01.511 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 00:25:05.164 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 00:25:06.646 +05:30 [INF] [Step] : I am at home page
+2021-04-28 00:25:14.782 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 00:25:18.904 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 00:25:22.934 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 00:26:34.747 +05:30 [INF] ******************************************
+2021-04-28 00:26:34.780 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 00:26:34.796 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 00:26:52.832 +05:30 [INF] ******************************************
+2021-04-28 00:26:52.878 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 00:26:52.894 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 00:26:57.114 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 00:26:57.890 +05:30 [INF] [Step] : I am at home page
+2021-04-28 00:27:08.854 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 00:27:12.813 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 00:27:14.857 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 00:34:15.169 +05:30 [INF] ******************************************
+2021-04-28 00:34:15.204 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 00:34:15.222 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 00:34:19.404 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 00:34:21.743 +05:30 [INF] [Step] : I am at home page
+2021-04-28 00:34:32.256 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 00:34:42.855 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 00:34:48.892 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 01:16:31.281 +05:30 [INF] ******************************************
+2021-04-28 01:16:31.316 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 01:16:31.335 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 01:16:37.495 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 01:16:40.156 +05:30 [INF] [Step] : I am at home page
+2021-04-28 01:16:52.153 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 01:17:00.161 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 01:17:04.163 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 01:17:09.867 +05:30 [INF] [Step] : Item should be available in the cart
+2021-04-28 01:21:06.106 +05:30 [INF] ******************************************
+2021-04-28 01:21:06.134 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 01:21:06.151 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 01:21:11.382 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 01:21:12.337 +05:30 [INF] [Step] : I am at home page
+2021-04-28 01:21:20.763 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 01:21:27.824 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 01:21:29.352 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 01:25:37.058 +05:30 [INF] ******************************************
+2021-04-28 01:25:37.094 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 01:25:37.111 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 01:25:39.793 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 01:25:41.237 +05:30 [INF] [Step] : I am at home page
+2021-04-28 01:25:49.518 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 01:25:53.536 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 01:26:02.381 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 01:29:11.777 +05:30 [INF] ******************************************
+2021-04-28 01:29:11.815 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 01:29:11.833 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 01:29:25.705 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 01:29:26.872 +05:30 [INF] [Step] : I am at home page
+2021-04-28 01:29:34.258 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 01:29:37.878 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 01:29:41.987 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 01:32:35.253 +05:30 [INF] ******************************************
+2021-04-28 01:32:35.289 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 01:32:35.306 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 01:32:46.137 +05:30 [INF] ******************************************
+2021-04-28 01:32:46.165 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 01:32:46.181 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 01:32:49.124 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 01:32:49.874 +05:30 [INF] [Step] : I am at home page
+2021-04-28 01:32:58.140 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 01:33:02.876 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 01:33:04.708 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 01:36:45.028 +05:30 [INF] ******************************************
+2021-04-28 01:36:45.062 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 01:36:45.079 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 01:36:45.831 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 01:36:45.845 +05:30 [INF] [Step] : I am at home page
+2021-04-28 01:36:54.037 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 01:36:56.740 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 01:36:56.920 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 01:37:10.121 +05:30 [INF] [Step] : Item should be available in the cart
+2021-04-28 01:41:42.699 +05:30 [INF] ******************************************
+2021-04-28 01:41:42.725 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 01:41:42.745 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 01:41:44.019 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 01:41:44.036 +05:30 [INF] [Step] : I am at home page
+2021-04-28 01:41:51.260 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 01:41:53.420 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 01:41:53.626 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 01:41:59.788 +05:30 [INF] [Step] : Item should be available in the cart
+2021-04-28 01:57:28.409 +05:30 [INF] ******************************************
+2021-04-28 01:57:28.433 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 01:57:28.511 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 01:57:30.372 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 01:57:30.386 +05:30 [INF] [Step] : I am at home page
+2021-04-28 01:57:38.058 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 01:57:40.218 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 01:57:40.417 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 01:57:53.181 +05:30 [INF] [Step] : Item should be available in the cart
+2021-04-28 02:23:18.849 +05:30 [INF] ******************************************
+2021-04-28 02:23:18.881 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 02:23:18.899 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 02:23:20.099 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 02:23:20.113 +05:30 [INF] [Step] : I am at home page
+2021-04-28 02:23:28.875 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 02:23:31.046 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 02:23:31.254 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 02:23:43.108 +05:30 [INF] [Step] : Item should be available in the cart
+2021-04-28 02:25:17.667 +05:30 [INF] ******************************************
+2021-04-28 02:25:17.693 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 02:25:17.707 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 02:25:19.034 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 02:25:19.056 +05:30 [INF] [Step] : I am at home page
+2021-04-28 02:25:25.568 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 02:25:28.798 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 02:25:29.002 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 02:25:35.896 +05:30 [INF] [Step] : Item should be available in the cart
+2021-04-28 02:26:41.128 +05:30 [INF] ******************************************
+2021-04-28 02:26:41.159 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 02:26:41.178 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 02:26:42.473 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 02:26:42.487 +05:30 [INF] [Step] : I am at home page
+2021-04-28 02:26:49.228 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 02:26:51.683 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 02:26:51.885 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 02:26:57.980 +05:30 [INF] [Step] : Item should be available in the cart
+2021-04-28 02:27:09.335 +05:30 [INF] [scenario completed]
+2021-04-28 02:27:10.405 +05:30 [INF] ------------------------------------------------------------
+2021-04-28 02:27:11.530 +05:30 [INF] [Feature completed] 
+2021-04-28 02:27:11.530 +05:30 [INF] ==============================================================
+2021-04-28 02:27:14.633 +05:30 [INF] 
+******************************************
+2021-04-28 02:27:14.633 +05:30 [INF] 
+End of Test Cycle :
+2021-04-28 02:27:59.149 +05:30 [INF] ******************************************
+2021-04-28 02:27:59.182 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 02:27:59.201 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 02:28:00.389 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 02:28:00.403 +05:30 [INF] [Step] : I am at home page
+2021-04-28 02:28:07.701 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 02:28:09.863 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 02:28:10.091 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 02:28:17.058 +05:30 [INF] [Step] : Item should be available in the cart
+2021-04-28 02:42:38.333 +05:30 [INF] ******************************************
+2021-04-28 02:42:38.368 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 02:42:38.389 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 02:42:39.698 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 02:42:39.712 +05:30 [INF] [Step] : I am at home page
+2021-04-28 02:42:46.738 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 02:42:48.825 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 02:42:49.058 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 02:42:52.435 +05:30 [INF] [Step] : Item should be available in the cart
+2021-04-28 02:42:56.692 +05:30 [INF] [scenario completed]
+2021-04-28 02:42:56.692 +05:30 [INF] ------------------------------------------------------------
+2021-04-28 02:42:56.728 +05:30 [INF] [Feature completed] 
+2021-04-28 02:42:56.728 +05:30 [INF] ==============================================================
+2021-04-28 02:43:17.778 +05:30 [INF] ******************************************
+2021-04-28 02:43:17.814 +05:30 [INF] 
+New Test Cycle :
+2021-04-28 02:43:17.835 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-28 02:43:19.014 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-28 02:43:19.027 +05:30 [INF] [Step] : I am at home page
+2021-04-28 02:43:26.083 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-28 02:43:29.578 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-28 02:43:29.780 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-04-28 02:43:35.397 +05:30 [INF] [Step] : Item should be available in the cart

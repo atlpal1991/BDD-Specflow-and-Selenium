@@ -1,0 +1,104 @@
+2021-04-27 18:14:27.418 +05:30 [INF] ******************************************
+2021-04-27 18:14:27.453 +05:30 [INF] 
+New Test Cycle :
+2021-04-27 18:14:27.607 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-27 18:14:48.605 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-27 18:14:56.488 +05:30 [INF] [Step] : I am at home page
+2021-04-27 18:16:06.635 +05:30 [INF] ******************************************
+2021-04-27 18:16:06.688 +05:30 [INF] 
+New Test Cycle :
+2021-04-27 18:16:06.712 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-27 18:16:10.133 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-27 18:16:14.303 +05:30 [INF] [Step] : I am at home page
+2021-04-27 18:16:27.940 +05:30 [INF] [Step] : selected <Women> categeory for shopping
+2021-04-27 22:02:41.238 +05:30 [INF] ******************************************
+2021-04-27 22:02:41.281 +05:30 [INF] 
+New Test Cycle :
+2021-04-27 22:02:41.309 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-27 22:02:46.250 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-27 22:02:53.146 +05:30 [INF] [Step] : I am at home page
+2021-04-27 22:03:09.538 +05:30 [INF] [Step] : selected <Women> categeory for shopping
+2021-04-27 22:05:57.714 +05:30 [INF] ******************************************
+2021-04-27 22:05:57.751 +05:30 [INF] 
+New Test Cycle :
+2021-04-27 22:05:57.773 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-27 22:06:01.822 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-27 22:06:02.911 +05:30 [INF] [Step] : I am at home page
+2021-04-27 22:06:16.421 +05:30 [INF] [Step] : selected <Women> categeory for shopping
+2021-04-27 22:07:24.539 +05:30 [ERR] OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='block_top_menu']//li//a[contains(text(), '<Women>')]"}
+  (Session info: chrome=90.0.4430.85)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at FasalEcommerceBDD.PageFactory.MainPage.getMenuCatelogOnMainPage(String MenuTitle, IWebDriver driver) in C:\Users\Dell\Documents\FasalEcommerceWebsite\Automation.API.Framework\PageFactory\MainPage.cs:line 37
+   at FasalEcommerceBDD.Step_Definitions.ShoppingWorkflow.GivenSelectedCategeoryForShopping(String p0) in C:\Users\Dell\Documents\FasalEcommerceWebsite\Automation.API.Framework\Step_Definitions\ShoppingWorkflow.cs:line 53
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2021-04-27 22:07:24.539 +05:30 [ERR] WebDriver
+2021-04-27 22:08:33.773 +05:30 [INF] ******************************************
+2021-04-27 22:08:33.823 +05:30 [INF] 
+New Test Cycle :
+2021-04-27 22:08:33.849 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-27 22:08:37.772 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-27 22:08:50.862 +05:30 [INF] [Step] : I am at home page
+2021-04-27 22:09:03.110 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-27 22:10:19.534 +05:30 [INF] ******************************************
+2021-04-27 22:10:19.578 +05:30 [INF] 
+New Test Cycle :
+2021-04-27 22:10:19.604 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-27 22:10:24.286 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-27 22:10:27.992 +05:30 [INF] [Step] : I am at home page
+2021-04-27 22:10:39.043 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-27 23:36:50.632 +05:30 [INF] ******************************************
+2021-04-27 23:36:50.667 +05:30 [INF] 
+New Test Cycle :
+2021-04-27 23:36:50.696 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-27 23:36:54.796 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-27 23:36:56.943 +05:30 [INF] [Step] : I am at home page
+2021-04-27 23:37:08.095 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-27 23:38:42.864 +05:30 [INF] ******************************************
+2021-04-27 23:38:42.898 +05:30 [INF] 
+New Test Cycle :
+2021-04-27 23:38:42.914 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-27 23:38:45.701 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-27 23:38:49.748 +05:30 [INF] [Step] : I am at home page
+2021-04-27 23:38:58.399 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-27 23:39:09.180 +05:30 [INF] [Step] : apply three filters In Stock, New, Fashion and search for results
+2021-04-27 23:43:53.033 +05:30 [INF] ******************************************
+2021-04-27 23:43:53.064 +05:30 [INF] 
+New Test Cycle :
+2021-04-27 23:43:53.083 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-27 23:43:57.662 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-27 23:43:59.300 +05:30 [INF] [Step] : I am at home page
+2021-04-27 23:44:09.332 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-27 23:44:18.034 +05:30 [INF] [Step] : apply three filters In Stock, New, Fashion and search for results
+2021-04-27 23:46:46.552 +05:30 [INF] ******************************************
+2021-04-27 23:46:46.587 +05:30 [INF] 
+New Test Cycle :
+2021-04-27 23:46:46.603 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-27 23:46:51.094 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-27 23:46:52.277 +05:30 [INF] [Step] : I am at home page
+2021-04-27 23:47:01.554 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-27 23:47:08.038 +05:30 [INF] [Step] : apply three filters In Stock, New, Fashion and search for results
+2021-04-27 23:48:55.026 +05:30 [INF] ******************************************
+2021-04-27 23:48:55.053 +05:30 [INF] 
+New Test Cycle :
+2021-04-27 23:48:55.069 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-27 23:48:57.600 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-27 23:49:00.740 +05:30 [INF] [Step] : I am at home page
+2021-04-27 23:49:10.509 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-27 23:49:15.517 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-27 23:58:59.189 +05:30 [INF] ******************************************
+2021-04-27 23:58:59.216 +05:30 [INF] 
+New Test Cycle :
+2021-04-27 23:58:59.322 +05:30 [INF] [Feature] : ShoppingWorkFlow
+2021-04-27 23:59:04.290 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-04-27 23:59:05.262 +05:30 [INF] [Step] : I am at home page
+2021-04-27 23:59:14.473 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-04-27 23:59:18.833 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-04-27 23:59:28.994 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart

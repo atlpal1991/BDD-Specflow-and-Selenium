@@ -1,0 +1,386 @@
+2021-05-01 01:39:54.726 +05:30 [INF] ******************************************
+2021-05-01 01:39:54.752 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 01:39:54.763 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 01:39:55.980 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 01:39:55.999 +05:30 [INF] [Step] : I am at home page
+2021-05-01 01:40:12.412 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 01:40:31.205 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 01:40:31.392 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 01:40:32.075 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 01:40:32.184 +05:30 [ERR] OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=90.0.4430.93)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at FasalEcommerceBDD.Step_Definitions.ShoppingWorkflow.ThenItemShouldBeAvailableInTheCart() in C:\Users\Dell\Documents\FasalEcommerceWebsite\Automation.API.Framework\Step_Definitions\ShoppingWorkflow.cs:line 89
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2021-05-01 01:40:32.185 +05:30 [ERR] WebDriver
+2021-05-01 01:40:32.228 +05:30 [INF] [scenario completed]
+2021-05-01 01:40:32.228 +05:30 [INF] ------------------------------------------------------------
+2021-05-01 01:40:32.243 +05:30 [INF] [Feature completed] 
+2021-05-01 01:40:32.243 +05:30 [INF] ==============================================================
+2021-05-01 01:40:32.441 +05:30 [INF] 
+******************************************
+2021-05-01 01:40:32.442 +05:30 [INF] 
+End of Test Cycle :
+2021-05-01 01:43:00.618 +05:30 [INF] ******************************************
+2021-05-01 01:43:00.644 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 01:43:00.747 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 01:43:01.606 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 01:43:01.619 +05:30 [INF] [Step] : I am at home page
+2021-05-01 01:43:14.593 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 01:43:17.818 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 01:43:18.017 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 01:43:22.558 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 01:47:06.043 +05:30 [INF] ******************************************
+2021-05-01 01:47:06.068 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 01:47:06.077 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 01:47:07.314 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 01:47:07.326 +05:30 [INF] [Step] : I am at home page
+2021-05-01 01:47:23.972 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 01:47:26.722 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 01:47:26.918 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 01:47:27.591 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 01:47:27.651 +05:30 [ERR] OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=90.0.4430.93)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at FasalEcommerceBDD.Step_Definitions.ShoppingWorkflow.ThenItemShouldBeAvailableInTheCart() in C:\Users\Dell\Documents\FasalEcommerceWebsite\Automation.API.Framework\Step_Definitions\ShoppingWorkflow.cs:line 89
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2021-05-01 01:47:27.651 +05:30 [ERR] WebDriver
+2021-05-01 01:47:27.687 +05:30 [INF] [scenario completed]
+2021-05-01 01:47:27.687 +05:30 [INF] ------------------------------------------------------------
+2021-05-01 01:47:27.703 +05:30 [INF] [Feature completed] 
+2021-05-01 01:47:27.703 +05:30 [INF] ==============================================================
+2021-05-01 01:47:27.913 +05:30 [INF] 
+******************************************
+2021-05-01 01:47:27.913 +05:30 [INF] 
+End of Test Cycle :
+2021-05-01 01:47:47.855 +05:30 [INF] ******************************************
+2021-05-01 01:47:47.889 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 01:47:47.908 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 01:47:48.727 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 01:47:48.741 +05:30 [INF] [Step] : I am at home page
+2021-05-01 01:48:30.976 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 01:48:37.971 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 01:48:38.182 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 01:48:44.737 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 04:44:52.392 +05:30 [INF] ******************************************
+2021-05-01 04:44:52.431 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 04:44:52.604 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 04:44:54.058 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 04:44:54.085 +05:30 [INF] [Step] : I am at home page
+2021-05-01 04:45:05.682 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 04:45:08.175 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 04:45:08.659 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 04:45:20.194 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 04:47:14.698 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 04:47:32.316 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 04:50:01.258 +05:30 [INF] ******************************************
+2021-05-01 04:50:01.296 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 04:50:01.319 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 04:50:02.941 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 04:50:02.972 +05:30 [INF] [Step] : I am at home page
+2021-05-01 04:50:11.137 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 04:50:14.027 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 04:50:14.304 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 04:50:19.981 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 04:52:25.655 +05:30 [INF] ******************************************
+2021-05-01 04:52:25.694 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 04:52:25.717 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 04:52:27.225 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 04:52:27.268 +05:30 [INF] [Step] : I am at home page
+2021-05-01 04:52:34.563 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 04:52:39.138 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 04:52:39.419 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 04:52:43.925 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 04:52:58.180 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 04:53:04.920 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 04:58:54.886 +05:30 [INF] ******************************************
+2021-05-01 04:58:54.922 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 04:58:54.942 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 04:58:56.369 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 04:58:56.400 +05:30 [INF] [Step] : I am at home page
+2021-05-01 04:59:03.657 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 04:59:06.705 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 04:59:06.991 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 04:59:07.813 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 05:00:11.208 +05:30 [INF] ******************************************
+2021-05-01 05:00:11.257 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 05:00:11.277 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 05:00:12.847 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 05:00:12.914 +05:30 [INF] [Step] : I am at home page
+2021-05-01 05:00:20.412 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 05:00:23.752 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 05:00:24.033 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 05:00:24.768 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 05:00:32.774 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 05:00:42.501 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 10:52:20.274 +05:30 [INF] ******************************************
+2021-05-01 10:52:20.319 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 10:52:20.345 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 10:52:21.986 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 10:52:22.011 +05:30 [INF] [Step] : I am at home page
+2021-05-01 10:52:30.262 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 10:52:32.775 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 10:52:33.057 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 10:52:33.821 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 10:52:41.191 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 10:52:47.705 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 10:55:25.089 +05:30 [INF] ******************************************
+2021-05-01 10:55:25.133 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 10:55:25.154 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 10:55:26.680 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 10:55:26.706 +05:30 [INF] [Step] : I am at home page
+2021-05-01 10:55:34.648 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 10:55:37.697 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 10:55:37.982 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 10:55:38.745 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 10:55:49.669 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 10:55:56.730 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 10:57:38.174 +05:30 [INF] ******************************************
+2021-05-01 10:57:38.211 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 10:57:38.330 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 10:57:39.870 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 10:57:39.896 +05:30 [INF] [Step] : I am at home page
+2021-05-01 10:57:47.098 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 10:57:50.189 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 10:57:50.618 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 10:57:51.502 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 10:58:02.807 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 10:58:11.245 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 10:59:37.171 +05:30 [INF] ******************************************
+2021-05-01 10:59:37.213 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 10:59:37.239 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 10:59:38.627 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 10:59:38.652 +05:30 [INF] [Step] : I am at home page
+2021-05-01 10:59:46.167 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 10:59:48.621 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 10:59:48.948 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 10:59:49.695 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 10:59:58.132 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 11:00:04.851 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 11:00:43.693 +05:30 [INF] [Step] : Go to payment page
+2021-05-01 11:01:34.402 +05:30 [INF] ******************************************
+2021-05-01 11:01:34.442 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 11:01:34.460 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 11:01:35.826 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 11:01:35.847 +05:30 [INF] [Step] : I am at home page
+2021-05-01 11:01:44.087 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 11:01:46.591 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 11:01:46.807 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 11:01:47.479 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 11:01:55.501 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 11:02:03.477 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 11:39:17.573 +05:30 [INF] ******************************************
+2021-05-01 11:39:17.608 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 11:39:17.624 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 11:39:18.960 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 11:39:18.978 +05:30 [INF] [Step] : I am at home page
+2021-05-01 11:39:25.984 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 11:39:28.380 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 11:39:28.617 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 11:39:29.295 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 11:39:37.992 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 11:39:44.822 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 11:42:26.980 +05:30 [INF] ******************************************
+2021-05-01 11:42:27.013 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 11:42:27.037 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 11:42:28.344 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 11:42:28.366 +05:30 [INF] [Step] : I am at home page
+2021-05-01 11:42:35.898 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 11:42:38.886 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 11:42:39.083 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 11:42:39.810 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 11:42:48.295 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 11:42:55.758 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 11:51:30.705 +05:30 [INF] ******************************************
+2021-05-01 11:51:30.743 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 11:51:30.762 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 11:51:32.147 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 11:51:32.166 +05:30 [INF] [Step] : I am at home page
+2021-05-01 11:51:40.734 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 11:51:43.877 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 11:51:44.091 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 11:51:44.764 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 11:51:52.944 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 11:52:00.989 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 11:56:14.082 +05:30 [INF] ******************************************
+2021-05-01 11:56:14.118 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 11:56:14.135 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 11:56:15.413 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 11:56:15.427 +05:30 [INF] [Step] : I am at home page
+2021-05-01 11:56:22.453 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 11:56:24.582 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 11:56:24.784 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 11:56:25.469 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 11:56:33.986 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 11:56:38.997 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 12:00:56.227 +05:30 [INF] ******************************************
+2021-05-01 12:00:56.262 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 12:00:56.280 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 12:00:57.555 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 12:00:57.569 +05:30 [INF] [Step] : I am at home page
+2021-05-01 12:01:06.188 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 12:01:08.352 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 12:01:08.550 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 12:01:09.262 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 12:01:17.502 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 12:01:24.997 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 12:06:26.907 +05:30 [INF] ******************************************
+2021-05-01 12:06:26.936 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 12:06:26.952 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 12:06:28.224 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 12:06:28.239 +05:30 [INF] [Step] : I am at home page
+2021-05-01 12:06:34.904 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 12:06:37.097 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 12:06:37.296 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 12:06:37.986 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 12:06:47.406 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 12:06:57.117 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 12:08:02.558 +05:30 [INF] ******************************************
+2021-05-01 12:08:02.597 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 12:08:02.629 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 12:08:03.945 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 12:08:03.961 +05:30 [INF] [Step] : I am at home page
+2021-05-01 12:08:11.708 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 12:08:15.293 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 12:08:15.513 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 12:08:16.193 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 12:08:23.043 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 12:08:53.068 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 12:09:08.269 +05:30 [INF] [Step] : Go to payment page
+2021-05-01 12:15:35.759 +05:30 [INF] ******************************************
+2021-05-01 12:15:35.805 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 12:15:35.827 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 12:15:37.192 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 12:15:37.208 +05:30 [INF] [Step] : I am at home page
+2021-05-01 12:15:44.047 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 12:15:46.518 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 12:15:46.722 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 12:15:47.389 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 12:15:54.952 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 12:16:02.677 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 12:16:14.464 +05:30 [INF] [Step] : Go to payment page
+2021-05-01 12:17:45.332 +05:30 [INF] ******************************************
+2021-05-01 12:17:45.361 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 12:17:45.377 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 12:17:46.749 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 12:17:46.767 +05:30 [INF] [Step] : I am at home page
+2021-05-01 12:17:55.394 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 12:17:58.459 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 12:17:58.660 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 12:17:59.336 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 12:18:06.619 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 12:18:11.851 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 12:18:28.690 +05:30 [INF] [Step] : Go to payment page
+2021-05-01 12:21:05.161 +05:30 [INF] ******************************************
+2021-05-01 12:21:05.193 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 12:21:05.219 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 12:21:06.210 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 12:21:06.225 +05:30 [INF] [Step] : I am at home page
+2021-05-01 12:21:17.843 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 12:21:26.975 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 12:21:27.179 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 12:21:27.872 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 12:21:46.133 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 12:21:58.733 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 12:22:20.281 +05:30 [INF] [Step] : Go to payment page
+2021-05-01 12:23:48.678 +05:30 [INF] [Step] : I add payment details
+2021-05-01 12:49:42.776 +05:30 [INF] ******************************************
+2021-05-01 12:49:42.825 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 12:49:42.849 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 12:49:44.247 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 12:49:44.277 +05:30 [INF] [Step] : I am at home page
+2021-05-01 12:49:51.676 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 12:49:54.059 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 12:49:54.339 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 12:49:55.084 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 12:51:06.439 +05:30 [INF] ******************************************
+2021-05-01 12:51:06.487 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 12:51:06.511 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 12:51:07.890 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 12:51:07.923 +05:30 [INF] [Step] : I am at home page
+2021-05-01 12:51:14.828 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 12:51:39.547 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 12:52:17.358 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 12:52:32.599 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 12:54:03.136 +05:30 [INF] ******************************************
+2021-05-01 12:54:03.175 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 12:54:03.196 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 12:54:04.170 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 12:54:04.207 +05:30 [INF] [Step] : I am at home page
+2021-05-01 12:54:11.703 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 12:54:20.532 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 12:54:20.839 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 12:56:20.614 +05:30 [INF] ******************************************
+2021-05-01 12:56:20.642 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 12:56:20.652 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 12:56:21.968 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 12:56:21.985 +05:30 [INF] [Step] : I am at home page
+2021-05-01 12:56:29.404 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 12:56:31.572 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 12:56:31.822 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 12:56:32.513 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 12:56:39.488 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 12:56:42.016 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 12:56:52.516 +05:30 [INF] [Step] : Go to payment page and select payment type and proceed
+2021-05-01 12:56:55.419 +05:30 [ERR] OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='button btn btn-default button-medium']"}
+  (Session info: chrome=90.0.4430.93)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at FasalEcommerceBDD.Step_Definitions.ShoppingWorkflow.WhenGoToPaymentPageAndSelectPaymentTypeAndProceed() in C:\Users\Dell\Documents\FasalEcommerceWebsite\Automation.API.Framework\Step_Definitions\ShoppingWorkflow.cs:line 151
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2021-05-01 12:56:55.419 +05:30 [ERR] WebDriver
+2021-05-01 12:56:55.502 +05:30 [INF] [scenario completed]
+2021-05-01 12:56:55.502 +05:30 [INF] ------------------------------------------------------------
+2021-05-01 12:56:55.539 +05:30 [INF] [Feature completed] 
+2021-05-01 12:56:55.539 +05:30 [INF] ==============================================================
+2021-05-01 12:56:55.974 +05:30 [INF] 
+******************************************
+2021-05-01 12:56:55.975 +05:30 [INF] 
+End of Test Cycle :
