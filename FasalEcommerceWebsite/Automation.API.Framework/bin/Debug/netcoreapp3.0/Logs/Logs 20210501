@@ -459,3 +459,25 @@ New Test Cycle :
 ******************************************
 2021-05-01 14:10:14.690 +05:30 [INF] 
 End of Test Cycle :
+2021-05-01 14:13:27.128 +05:30 [INF] ******************************************
+2021-05-01 14:13:27.171 +05:30 [INF] 
+New Test Cycle :
+2021-05-01 14:13:27.182 +05:30 [INF] [Feature] : Shopping workflow to place an order for an item
+2021-05-01 14:13:29.010 +05:30 [INF] [Scenario Start] : Find and add item to the cart
+2021-05-01 14:13:29.052 +05:30 [INF] [Step] : I am at home page
+2021-05-01 14:13:36.171 +05:30 [INF] [Step] : selected Women categeory for shopping
+2021-05-01 14:13:39.660 +05:30 [INF] [Step] : apply three filters In stock, New, Fashion and search for results
+2021-05-01 14:13:40.110 +05:30 [INF] [Step] : Add an item of worth $27 and add to cart
+2021-05-01 14:13:40.868 +05:30 [INF] [Step] : Item should be available in the cart
+2021-05-01 14:13:49.634 +05:30 [INF] [Step] : Go to Cart Page and proceed to checkout
+2021-05-01 14:13:52.468 +05:30 [INF] [Step] : Enter username password, Address , Shipping_Details  and  Enter Address Shipping details
+2021-05-01 14:14:03.531 +05:30 [INF] [Step] : Go to payment page and select payment type and proceed
+2021-05-01 14:14:05.244 +05:30 [INF] [Step] : read the message in the final order confirmation summary page
+2021-05-01 14:14:05.262 +05:30 [INF] [scenario completed]
+2021-05-01 14:14:05.262 +05:30 [INF] ------------------------------------------------------------
+2021-05-01 14:14:05.286 +05:30 [INF] [Feature completed] 
+2021-05-01 14:14:05.286 +05:30 [INF] ==============================================================
+2021-05-01 14:14:05.778 +05:30 [INF] 
+******************************************
+2021-05-01 14:14:05.778 +05:30 [INF] 
+End of Test Cycle :
