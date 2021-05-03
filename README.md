@@ -11,5 +11,7 @@ Steps : This folder contains steps definitions corresponsing to each feature fil
 Framework : This contains framework artifacts.
 
 
-Report snippet :
+Reprot Location : bin\Debug\netcoreapp3.0\Reports\
+
+Report Format :
 ![image](https://user-images.githubusercontent.com/42684033/116777010-85fb1c00-aa89-11eb-8c6d-a1c4a3b766c4.png)
